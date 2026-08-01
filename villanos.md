@@ -2,5 +2,5 @@
 
 * Dr Doom
 * Red Skull
-* Dr Chelitowan
+* Capitan America
 
